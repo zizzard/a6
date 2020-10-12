@@ -1,0 +1,22 @@
+.main {
+  padding: 10px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.member {
+  padding: 5px;
+}
+
+.avatar {
+  width: 150px;
+  height: 150px;
+}
+
+.repo-mini {
+  padding-bottom: 5px;
+}
+
+.modal {
+  overflow-y: scroll !important;
+}
